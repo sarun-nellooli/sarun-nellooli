@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on Flutter front-end development
-- 📫 you can reach me on -sarunnellooli@gmail.com
+- 📫 you can reach me on sarunnellooli@gmail.com
 
 <!---
 sarun-nellooli/sarun-nellooli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
