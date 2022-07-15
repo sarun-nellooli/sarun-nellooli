@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sarun</h1>
-<h3 align="center">Iam a passionate self-taught Back-end developer || Flutter Developer from india. I am passionate about technologies and love to learn new things..</h3>
+<h3 align="center">Iam a passionate self-taught Flutter Developer || Back-end developer from india. I am passionate about technologies and love to learn new things..</h3>
 
 - 🔭 I’m currently working on **Flutter Projects || Embedded Systems Projects**
 
