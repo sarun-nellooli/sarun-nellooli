@@ -22,4 +22,5 @@
 
 <p align="center"><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarun-nellooli&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sarun-nellooli&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sarun's Github Stats"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarun-nellooli&label=Profile%20views&color=0e75b6&style=flat" alt="sarun-nellooli" /> </p>
 
